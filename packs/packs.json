@@ -1,9 +1,14 @@
-{ "updatedAt": "2026-02-15", "packs": [] }
-
 {
-  "id": "daily_basic",
-  "items": [
-    { "id": "d1", "from": "Hello.", "to": "Szia." }
+  "updatedAt": "2026-02-15",
+  "packs": [
+    {
+      "id": "daily_basic",
+      "name": "Daily Basic",
+      "level": "A1",
+      "from": "en",
+      "to": "hu",
+      "count": 1,
+      "url": "https://raw.githubusercontent.com/vekonyat/repetico-packs/main/packs/daily_basic.json"
+    }
   ]
 }
-
