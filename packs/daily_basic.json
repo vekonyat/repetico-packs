@@ -1,1 +1,7 @@
+{
+  "id": "daily_basic",
+  "items": [
+    { "id": "d1", "from": "Hello.", "to": "Szia." }
+  ]
+}
 
