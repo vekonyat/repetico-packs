@@ -8,7 +8,7 @@
       "from": "en",
       "to": "hu",
       "count": 1,
-      "url": "https://raw.githubusercontent.com/vekonyat/repetico-packs/main/packs/daily_basic.json"
+      "url": "https://raw.githubusercontent.com/vekonyat/repetico-packs/refs/heads/main/packs/daily_basic.json"
     }
   ]
 }
