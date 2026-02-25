@@ -1,0 +1,25 @@
+{
+  "id": "daily_basic_a1_en_es",
+  "items": [
+    { "id": "a1_1",  "from": "Good morning!", "to": "¡Buenos días!" },
+    { "id": "a1_2",  "from": "Good evening!", "to": "¡Buenas tardes!" },
+    { "id": "a1_3",  "from": "Good night!", "to": "¡Buenas noches!" },
+    { "id": "a1_4",  "from": "How are you?", "to": "¿Cómo estás?" },
+    { "id": "a1_5",  "from": "I am fine, thanks.", "to": "Estoy bien, gracias." },
+    { "id": "a1_6",  "from": "What is your name?", "to": "¿Cómo te llamas?" },
+    { "id": "a1_7",  "from": "My name is Anna.", "to": "Me llamo Anna." },
+    { "id": "a1_8",  "from": "Nice to meet you.", "to": "Mucho gusto." },
+    { "id": "a1_9",  "from": "Please.", "to": "Por favor." },
+    { "id": "a1_10", "from": "Thank you.", "to": "Gracias." },
+    { "id": "a1_11", "from": "You are welcome.", "to": "De nada." },
+    { "id": "a1_12", "from": "Yes.", "to": "Sí." },
+    { "id": "a1_13", "from": "No.", "to": "No." },
+    { "id": "a1_14", "from": "I don't understand.", "to": "No entiendo." },
+    { "id": "a1_15", "from": "Can you repeat, please?", "to": "¿Puedes repetir, por favor?" },
+    { "id": "a1_16", "from": "Where is the bathroom?", "to": "¿Dónde está el baño?" },
+    { "id": "a1_17", "from": "I am hungry.", "to": "Tengo hambre." },
+    { "id": "a1_18", "from": "I am thirsty.", "to": "Tengo sed." },
+    { "id": "a1_19", "from": "I would like a coffee.", "to": "Quisiera un café." },
+    { "id": "a1_20", "from": "See you tomorrow!", "to": "¡Hasta mañana!" }
+  ]
+}
