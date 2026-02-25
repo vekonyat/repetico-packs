@@ -1,0 +1,25 @@
+{
+  "id": "daily_basic_a2_en_es",
+  "items": [
+    { "id": "a2_1",  "from": "What time does the meeting start?", "to": "¿A qué hora empieza la reunión?" },
+    { "id": "a2_2",  "from": "It starts at eleven o'clock.", "to": "Empieza a las once." },
+    { "id": "a2_3",  "from": "I am working from home today.", "to": "Hoy trabajo desde casa." },
+    { "id": "a2_4",  "from": "I usually get up at eight.", "to": "Normalmente me levanto a las ocho." },
+    { "id": "a2_5",  "from": "Can you send me the document today?", "to": "¿Puedes enviarme el documento hoy?" },
+    { "id": "a2_6",  "from": "I will send it in a few minutes.", "to": "Lo enviaré en unos minutos." },
+    { "id": "a2_7",  "from": "I have to make a phone call.", "to": "Tengo que hacer una llamada." },
+    { "id": "a2_8",  "from": "Sorry, I am busy right now.", "to": "Perdón, estoy ocupado ahora mismo." },
+    { "id": "a2_9",  "from": "Let's talk later.", "to": "Hablemos más tarde." },
+    { "id": "a2_10", "from": "Could you help me with this?", "to": "¿Podrías ayudarme con esto?" },
+    { "id": "a2_11", "from": "I need to practice Spanish every day.", "to": "Necesito practicar español todos los días." },
+    { "id": "a2_12", "from": "I am trying to learn new words.", "to": "Estoy intentando aprender palabras nuevas." },
+    { "id": "a2_13", "from": "I would like to pay by card.", "to": "Me gustaría pagar con tarjeta." },
+    { "id": "a2_14", "from": "How much does it cost?", "to": "¿Cuánto cuesta?" },
+    { "id": "a2_15", "from": "It is too expensive for me.", "to": "Es demasiado caro para mí." },
+    { "id": "a2_16", "from": "I am looking for a quiet place.", "to": "Busco un lugar tranquilo." },
+    { "id": "a2_17", "from": "I like walking near the lake.", "to": "Me gusta caminar cerca del lago." },
+    { "id": "a2_18", "from": "Today the weather is better than yesterday.", "to": "Hoy hace mejor tiempo que ayer." },
+    { "id": "a2_19", "from": "I will be there in ten minutes.", "to": "Estaré allí en diez minutos." },
+    { "id": "a2_20", "from": "If you want, we can meet on Thursday.", "to": "Si quieres, podemos quedar el jueves." }
+  ]
+}
