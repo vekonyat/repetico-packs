@@ -2,22 +2,22 @@
   "updatedAt": "2026-02-25",
   "packs": [
     {
-      "id": "daily_basic_a1_en_es",
+      "id": "deck_a1_en_es",
       "name": "Daily Basic (A1) EN→ES",
       "level": "a1",
       "from": "en",
       "to": "es",
       "count": 20,
-      "url": "https://raw.githubusercontent.com/vekonyat/repetico-packs/main/packs/daily_basic_a1_en_es.json"
+      "url": "https://raw.githubusercontent.com/vekonyat/repetico-packs/main/packs/deck_a1_en_es.json"
     },
     {
-      "id": "daily_basic_a2_en_es",
+      "id": "deck_a2_en_es",
       "name": "Daily Basic (A2) EN→ES",
       "level": "a2",
       "from": "en",
       "to": "es",
       "count": 20,
-      "url": "https://raw.githubusercontent.com/vekonyat/repetico-packs/main/packs/daily_basic_a2_en_es.json"
+      "url": "https://raw.githubusercontent.com/vekonyat/repetico-packs/main/packs/deck_a2_en_es.json"
     }
   ]
 }
