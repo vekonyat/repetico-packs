@@ -21,5 +21,25 @@
     { "id": "a2_18", "from": "Today the weather is better than yesterday.", "to": "Hoy hace mejor tiempo que ayer." },
     { "id": "a2_19", "from": "I will be there in ten minutes.", "to": "Estaré allí en diez minutos." },
     { "id": "a2_20", "from": "If you want, we can meet on Thursday.", "to": "Si quieres, podemos quedar el jueves." }
+    { "id": "a2_21", "from": "I forgot my password.", "to": "Olvidé mi contraseña." },
+    { "id": "a2_22", "from": "Can you reset it for me?", "to": "¿Puedes restablecerla para mí?" },
+    { "id": "a2_23", "from": "I will check my email.", "to": "Voy a revisar mi correo." },
+    { "id": "a2_24", "from": "The internet is very slow today.", "to": "El internet está muy lento hoy." },
+    { "id": "a2_25", "from": "My connection keeps dropping.", "to": "Mi conexión se corta todo el tiempo." },
+    { "id": "a2_26", "from": "Can you call me when you are free?", "to": "¿Puedes llamarme cuando estés libre?" },
+    { "id": "a2_27", "from": "I am on my way.", "to": "Estoy de camino." },
+    { "id": "a2_28", "from": "I will arrive a little late.", "to": "Llegaré un poco tarde." },
+    { "id": "a2_29", "from": "Do you have any plans for the weekend?", "to": "¿Tienes planes para el fin de semana?" },
+    { "id": "a2_30", "from": "I want to relax at home.", "to": "Quiero relajarme en casa." },
+    { "id": "a2_31", "from": "Let's have lunch together.", "to": "Comamos juntos." },
+    { "id": "a2_32", "from": "I prefer something light.", "to": "Prefiero algo ligero." },
+    { "id": "a2_33", "from": "Could you speak more slowly?", "to": "¿Podrías hablar más despacio?" },
+    { "id": "a2_34", "from": "I am learning Spanish, so I make mistakes.", "to": "Estoy aprendiendo español, así que cometo errores." },
+    { "id": "a2_35", "from": "Can you write it down, please?", "to": "¿Puedes escribirlo, por favor?" },
+    { "id": "a2_36", "from": "I need to buy a few things.", "to": "Necesito comprar algunas cosas." },
+    { "id": "a2_37", "from": "The shop is closed today.", "to": "La tienda está cerrada hoy." },
+    { "id": "a2_38", "from": "Let's meet in front of the station.", "to": "Quedemos delante de la estación." },
+    { "id": "a2_39", "from": "I will send you the address.", "to": "Te enviaré la dirección." },
+    { "id": "a2_40", "from": "See you soon!", "to": "¡Hasta pronto!" }
   ]
 }
