@@ -1,0 +1,25 @@
+{
+  "id": "deck_a1_hu_en",
+  "items": [
+    { "id": "huen_a1_1", "from": "Szia!", "to": "Hi!" },
+    { "id": "huen_a1_2", "from": "Jó reggelt!", "to": "Good morning!" },
+    { "id": "huen_a1_3", "from": "Hogy vagy?", "to": "How are you?" },
+    { "id": "huen_a1_4", "from": "Jól vagyok, köszönöm.", "to": "I am fine, thank you." },
+    { "id": "huen_a1_5", "from": "Hogy hívnak?", "to": "What is your name?" },
+    { "id": "huen_a1_6", "from": "A nevem Attila.", "to": "My name is Attila." },
+    { "id": "huen_a1_7", "from": "Örülök, hogy megismertelek.", "to": "Nice to meet you." },
+    { "id": "huen_a1_8", "from": "Budapesten élek.", "to": "I live in Budapest." },
+    { "id": "huen_a1_9", "from": "Ma otthonról dolgozom.", "to": "I am working from home today." },
+    { "id": "huen_a1_10", "from": "Kérek egy kávét.", "to": "I would like a coffee." },
+    { "id": "huen_a1_11", "from": "Köszönöm szépen.", "to": "Thank you very much." },
+    { "id": "huen_a1_12", "from": "Szívesen.", "to": "You're welcome." },
+    { "id": "huen_a1_13", "from": "Igen.", "to": "Yes." },
+    { "id": "huen_a1_14", "from": "Nem.", "to": "No." },
+    { "id": "huen_a1_15", "from": "Nem értem.", "to": "I don't understand." },
+    { "id": "huen_a1_16", "from": "Meg tudod ismételni?", "to": "Can you repeat that?" },
+    { "id": "huen_a1_17", "from": "Hol van a mosdó?", "to": "Where is the bathroom?" },
+    { "id": "huen_a1_18", "from": "Éhes vagyok.", "to": "I am hungry." },
+    { "id": "huen_a1_19", "from": "Szomjas vagyok.", "to": "I am thirsty." },
+    { "id": "huen_a1_20", "from": "Holnap találkozunk!", "to": "See you tomorrow!" }
+  ]
+}
