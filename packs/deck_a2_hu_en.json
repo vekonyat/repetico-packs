@@ -1,0 +1,25 @@
+{
+  "id": "deck_a2_hu_en",
+  "items": [
+    { "id": "huen_a2_1", "from": "Mikor kezdődik a megbeszélés?", "to": "When does the meeting start?" },
+    { "id": "huen_a2_2", "from": "Tizenegykor kezdődik.", "to": "It starts at eleven o'clock." },
+    { "id": "huen_a2_3", "from": "El tudod küldeni ma a dokumentumot?", "to": "Can you send the document today?" },
+    { "id": "huen_a2_4", "from": "Pár perc múlva elküldöm.", "to": "I will send it in a few minutes." },
+    { "id": "huen_a2_5", "from": "Most elfoglalt vagyok.", "to": "I am busy right now." },
+    { "id": "huen_a2_6", "from": "Beszéljünk később.", "to": "Let's talk later." },
+    { "id": "huen_a2_7", "from": "Tudnál segíteni ebben?", "to": "Could you help me with this?" },
+    { "id": "huen_a2_8", "from": "Elfelejtettem a jelszavam.", "to": "I forgot my password." },
+    { "id": "huen_a2_9", "from": "Vissza tudod állítani?", "to": "Can you reset it?" },
+    { "id": "huen_a2_10", "from": "Nagyon lassú ma az internet.", "to": "The internet is very slow today." },
+    { "id": "huen_a2_11", "from": "Folyton megszakad a kapcsolat.", "to": "My connection keeps dropping." },
+    { "id": "huen_a2_12", "from": "Hívj fel, amikor ráérsz.", "to": "Call me when you are free." },
+    { "id": "huen_a2_13", "from": "Úton vagyok.", "to": "I am on my way." },
+    { "id": "huen_a2_14", "from": "Kicsit késni fogok.", "to": "I will be a little late." },
+    { "id": "huen_a2_15", "from": "Mi a terved hétvégére?", "to": "What are your plans for the weekend?" },
+    { "id": "huen_a2_16", "from": "Otthon szeretnék pihenni.", "to": "I want to relax at home." },
+    { "id": "huen_a2_17", "from": "Fizetnék kártyával.", "to": "I would like to pay by card." },
+    { "id": "huen_a2_18", "from": "Mennyibe kerül?", "to": "How much does it cost?" },
+    { "id": "huen_a2_19", "from": "Túl drága nekem.", "to": "It is too expensive for me." },
+    { "id": "huen_a2_20", "from": "Elküldöm neked a címet.", "to": "I will send you the address." }
+  ]
+}
