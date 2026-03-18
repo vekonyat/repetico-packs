@@ -1,0 +1,25 @@
+{
+  "id": "deck_a2_en_ru",
+  "items": [
+    { "id": "enru_a2_1", "from": "What time does the meeting start?", "to": "Во сколько начинается встреча?" },
+    { "id": "enru_a2_2", "from": "It starts at eleven o'clock.", "to": "Она начинается в одиннадцать." },
+    { "id": "enru_a2_3", "from": "I am working from home today.", "to": "Сегодня я работаю из дома." },
+    { "id": "enru_a2_4", "from": "Can you send me the document today?", "to": "Ты можешь отправить мне документ сегодня?" },
+    { "id": "enru_a2_5", "from": "I will send it in a few minutes.", "to": "Я отправлю это через несколько минут." },
+    { "id": "enru_a2_6", "from": "Sorry, I am busy right now.", "to": "Извини, я сейчас занят." },
+    { "id": "enru_a2_7", "from": "Let's talk later.", "to": "Давай поговорим позже." },
+    { "id": "enru_a2_8", "from": "Could you help me with this?", "to": "Ты мог бы помочь мне с этим?" },
+    { "id": "enru_a2_9", "from": "I forgot my password.", "to": "Я забыл пароль." },
+    { "id": "enru_a2_10", "from": "Can you reset it for me?", "to": "Ты можешь сбросить его для меня?" },
+    { "id": "enru_a2_11", "from": "The internet is very slow today.", "to": "Сегодня интернет очень медленный." },
+    { "id": "enru_a2_12", "from": "My connection keeps dropping.", "to": "Моё соединение постоянно обрывается." },
+    { "id": "enru_a2_13", "from": "I will arrive a little late.", "to": "Я немного опоздаю." },
+    { "id": "enru_a2_14", "from": "Do you have any plans for the weekend?", "to": "У тебя есть планы на выходные?" },
+    { "id": "enru_a2_15", "from": "I want to relax at home.", "to": "Я хочу отдохнуть дома." },
+    { "id": "enru_a2_16", "from": "Could you speak more slowly?", "to": "Ты мог бы говорить медленнее?" },
+    { "id": "enru_a2_17", "from": "Can you write it down, please?", "to": "Ты можешь записать это, пожалуйста?" },
+    { "id": "enru_a2_18", "from": "The shop is closed today.", "to": "Сегодня магазин закрыт." },
+    { "id": "enru_a2_19", "from": "I will send you the address.", "to": "Я отправлю тебе адрес." },
+    { "id": "enru_a2_20", "from": "See you soon!", "to": "До скорого!" }
+  ]
+}
