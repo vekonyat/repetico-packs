@@ -1,0 +1,25 @@
+{
+  "id": "deck_a1_en_ru",
+  "items": [
+    { "id": "enru_a1_1", "from": "Hello!", "to": "Привет!" },
+    { "id": "enru_a1_2", "from": "Good morning!", "to": "Доброе утро!" },
+    { "id": "enru_a1_3", "from": "How are you?", "to": "Как дела?" },
+    { "id": "enru_a1_4", "from": "I am fine, thank you.", "to": "Я в порядке, спасибо." },
+    { "id": "enru_a1_5", "from": "What is your name?", "to": "Как тебя зовут?" },
+    { "id": "enru_a1_6", "from": "My name is Attila.", "to": "Меня зовут Аттила." },
+    { "id": "enru_a1_7", "from": "Nice to meet you.", "to": "Приятно познакомиться." },
+    { "id": "enru_a1_8", "from": "Please.", "to": "Пожалуйста." },
+    { "id": "enru_a1_9", "from": "Thank you.", "to": "Спасибо." },
+    { "id": "enru_a1_10", "from": "You're welcome.", "to": "Пожалуйста (не за что)." },
+    { "id": "enru_a1_11", "from": "Yes.", "to": "Да." },
+    { "id": "enru_a1_12", "from": "No.", "to": "Нет." },
+    { "id": "enru_a1_13", "from": "I don't understand.", "to": "Я не понимаю." },
+    { "id": "enru_a1_14", "from": "Can you repeat?", "to": "Ты можешь повторить?" },
+    { "id": "enru_a1_15", "from": "I am hungry.", "to": "Я голоден." },
+    { "id": "enru_a1_16", "from": "I am thirsty.", "to": "Я хочу пить." },
+    { "id": "enru_a1_17", "from": "Where is the bathroom?", "to": "Где туалет?" },
+    { "id": "enru_a1_18", "from": "I am at home.", "to": "Я дома." },
+    { "id": "enru_a1_19", "from": "I live in Budapest.", "to": "Я живу в Будапеште." },
+    { "id": "enru_a1_20", "from": "See you tomorrow!", "to": "До завтра!" }
+  ]
+}
