@@ -1,5 +1,5 @@
 {
-  "id": "daily_basic_a1_en_es",
+  "id": "deck_a1_en_es",
   "items": [
     { "id": "a1_1",  "from": "Good morning!", "to": "¡Buenos días!" },
     { "id": "a1_2",  "from": "Good evening!", "to": "¡Buenas tardes!" },
