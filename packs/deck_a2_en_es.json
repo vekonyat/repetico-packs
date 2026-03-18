@@ -1,5 +1,5 @@
 {
-  "id": "daily_basic_a2_en_es",
+  "id": "deck_a2_en_es",
   "items": [
     { "id": "a2_1",  "from": "What time does the meeting start?", "to": "¿A qué hora empieza la reunión?" },
     { "id": "a2_2",  "from": "It starts at eleven o'clock.", "to": "Empieza a las once." },
