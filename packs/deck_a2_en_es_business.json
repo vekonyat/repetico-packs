@@ -1,0 +1,25 @@
+{
+  "id": "deck_a2_en_es_business",
+  "items": [
+    { "id": "biz_1",  "from": "I would like to introduce our company.", "to": "Me gustaría presentar nuestra empresa." },
+    { "id": "biz_2",  "from": "We are looking for a business partner.", "to": "Buscamos un socio comercial." },
+    { "id": "biz_3",  "from": "Can we schedule a meeting?", "to": "¿Podemos programar una reunión?" },
+    { "id": "biz_4",  "from": "Are you available on Thursday?", "to": "¿Estás disponible el jueves?" },
+    { "id": "biz_5",  "from": "I will send you a short summary by email.", "to": "Te enviaré un breve resumen por correo." },
+    { "id": "biz_6",  "from": "Could you send me a quotation?", "to": "¿Podrías enviarme un presupuesto?" },
+    { "id": "biz_7",  "from": "What is the price per month?", "to": "¿Cuál es el precio por mes?" },
+    { "id": "biz_8",  "from": "Is there a discount for a longer contract?", "to": "¿Hay descuento por un contrato más largo?" },
+    { "id": "biz_9",  "from": "We need a quick decision.", "to": "Necesitamos una decisión rápida." },
+    { "id": "biz_10", "from": "Can you confirm this in writing?", "to": "¿Puedes confirmarlo por escrito?" },
+    { "id": "biz_11", "from": "Let's review the main points.", "to": "Revisemos los puntos principales." },
+    { "id": "biz_12", "from": "I have a question about the terms.", "to": "Tengo una pregunta sobre las condiciones." },
+    { "id": "biz_13", "from": "Could you explain that again?", "to": "¿Podrías explicarlo otra vez?" },
+    { "id": "biz_14", "from": "That works for us.", "to": "Eso nos funciona." },
+    { "id": "biz_15", "from": "We agree with the proposal.", "to": "Estamos de acuerdo con la propuesta." },
+    { "id": "biz_16", "from": "We need a few changes.", "to": "Necesitamos algunos cambios." },
+    { "id": "biz_17", "from": "What is the delivery time?", "to": "¿Cuál es el plazo de entrega?" },
+    { "id": "biz_18", "from": "We will follow up next week.", "to": "Haremos seguimiento la próxima semana." },
+    { "id": "biz_19", "from": "Thank you for your time.", "to": "Gracias por tu tiempo." },
+    { "id": "biz_20", "from": "Looking forward to working together.", "to": "Espero que trabajemos juntos." }
+  ]
+}
