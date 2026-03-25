@@ -1,0 +1,25 @@
+{
+  "id": "deck_a2_en_es_travel",
+  "items": [
+    { "id": "tr_1",  "from": "I have a reservation under my name.", "to": "Tengo una reserva a mi nombre." },
+    { "id": "tr_2",  "from": "Can I check in now?", "to": "¿Puedo hacer el check-in ahora?" },
+    { "id": "tr_3",  "from": "What time is breakfast?", "to": "¿A qué hora es el desayuno?" },
+    { "id": "tr_4",  "from": "Is Wi-Fi included?", "to": "¿El Wi-Fi está incluido?" },
+    { "id": "tr_5",  "from": "Could I get a room with a view?", "to": "¿Podría tener una habitación con vistas?" },
+    { "id": "tr_6",  "from": "I would like a table for two, please.", "to": "Me gustaría una mesa para dos, por favor." },
+    { "id": "tr_7",  "from": "Do you have a menu in English?", "to": "¿Tienen un menú en inglés?" },
+    { "id": "tr_8",  "from": "I am allergic to nuts.", "to": "Soy alérgico a los frutos secos." },
+    { "id": "tr_9",  "from": "Can I pay by card?", "to": "¿Puedo pagar con tarjeta?" },
+    { "id": "tr_10", "from": "How much is it in total?", "to": "¿Cuánto es en total?" },
+    { "id": "tr_11", "from": "Where is the nearest metro station?", "to": "¿Dónde está la estación de metro más cercana?" },
+    { "id": "tr_12", "from": "Which bus goes to the city center?", "to": "¿Qué autobús va al centro?" },
+    { "id": "tr_13", "from": "One ticket, please.", "to": "Un billete, por favor." },
+    { "id": "tr_14", "from": "How long does it take?", "to": "¿Cuánto tarda?" },
+    { "id": "tr_15", "from": "I am looking for the airport.", "to": "Estoy buscando el aeropuerto." },
+    { "id": "tr_16", "from": "Can you show me on the map?", "to": "¿Me lo puedes mostrar en el mapa?" },
+    { "id": "tr_17", "from": "I would like to rent a car.", "to": "Me gustaría alquilar un coche." },
+    { "id": "tr_18", "from": "Do I need insurance?", "to": "¿Necesito seguro?" },
+    { "id": "tr_19", "from": "I lost my passport.", "to": "He perdido mi pasaporte." },
+    { "id": "tr_20", "from": "Can you help me, please?", "to": "¿Puede ayudarme, por favor?" }
+  ]
+}
