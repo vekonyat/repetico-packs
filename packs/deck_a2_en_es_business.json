@@ -1,25 +1,505 @@
 {
   "id": "deck_a2_en_es_business",
   "items": [
-    { "id": "biz_1",  "from": "I would like to introduce our company.", "to": "Me gustaría presentar nuestra empresa." },
-    { "id": "biz_2",  "from": "We are looking for a business partner.", "to": "Buscamos un socio comercial." },
-    { "id": "biz_3",  "from": "Can we schedule a meeting?", "to": "¿Podemos programar una reunión?" },
-    { "id": "biz_4",  "from": "Are you available on Thursday?", "to": "¿Estás disponible el jueves?" },
-    { "id": "biz_5",  "from": "I will send you a short summary by email.", "to": "Te enviaré un breve resumen por correo." },
-    { "id": "biz_6",  "from": "Could you send me a quotation?", "to": "¿Podrías enviarme un presupuesto?" },
-    { "id": "biz_7",  "from": "What is the price per month?", "to": "¿Cuál es el precio por mes?" },
-    { "id": "biz_8",  "from": "Is there a discount for a longer contract?", "to": "¿Hay descuento por un contrato más largo?" },
-    { "id": "biz_9",  "from": "We need a quick decision.", "to": "Necesitamos una decisión rápida." },
-    { "id": "biz_10", "from": "Can you confirm this in writing?", "to": "¿Puedes confirmarlo por escrito?" },
-    { "id": "biz_11", "from": "Let's review the main points.", "to": "Revisemos los puntos principales." },
-    { "id": "biz_12", "from": "I have a question about the terms.", "to": "Tengo una pregunta sobre las condiciones." },
-    { "id": "biz_13", "from": "Could you explain that again?", "to": "¿Podrías explicarlo otra vez?" },
-    { "id": "biz_14", "from": "That works for us.", "to": "Eso nos funciona." },
-    { "id": "biz_15", "from": "We agree with the proposal.", "to": "Estamos de acuerdo con la propuesta." },
-    { "id": "biz_16", "from": "We need a few changes.", "to": "Necesitamos algunos cambios." },
-    { "id": "biz_17", "from": "What is the delivery time?", "to": "¿Cuál es el plazo de entrega?" },
-    { "id": "biz_18", "from": "We will follow up next week.", "to": "Haremos seguimiento la próxima semana." },
-    { "id": "biz_19", "from": "Thank you for your time.", "to": "Gracias por tu tiempo." },
-    { "id": "biz_20", "from": "Looking forward to working together.", "to": "Espero que trabajemos juntos." }
+    {
+      "id": "biz_1",
+      "from": "I would like to introduce our company.",
+      "to": "Me gustaría presentar nuestra empresa."
+    },
+    {
+      "id": "biz_2",
+      "from": "We are looking for a business partner.",
+      "to": "Buscamos un socio comercial."
+    },
+    {
+      "id": "biz_3",
+      "from": "Can we schedule a meeting?",
+      "to": "¿Podemos programar una reunión?"
+    },
+    {
+      "id": "biz_4",
+      "from": "Are you available on Thursday?",
+      "to": "¿Estás disponible el jueves?"
+    },
+    {
+      "id": "biz_5",
+      "from": "I will send you a short summary by email.",
+      "to": "Te enviaré un breve resumen por correo."
+    },
+    {
+      "id": "biz_6",
+      "from": "Could you send me a quotation?",
+      "to": "¿Podrías enviarme un presupuesto?"
+    },
+    {
+      "id": "biz_7",
+      "from": "What is the price per month?",
+      "to": "¿Cuál es el precio por mes?"
+    },
+    {
+      "id": "biz_8",
+      "from": "Is there a discount for a longer contract?",
+      "to": "¿Hay descuento por un contrato más largo?"
+    },
+    {
+      "id": "biz_9",
+      "from": "We need a quick decision.",
+      "to": "Necesitamos una decisión rápida."
+    },
+    {
+      "id": "biz_10",
+      "from": "Can you confirm this in writing?",
+      "to": "¿Puedes confirmarlo por escrito?"
+    },
+    {
+      "id": "biz_11",
+      "from": "Let's review the main points.",
+      "to": "Revisemos los puntos principales."
+    },
+    {
+      "id": "biz_12",
+      "from": "I have a question about the terms.",
+      "to": "Tengo una pregunta sobre las condiciones."
+    },
+    {
+      "id": "biz_13",
+      "from": "Could you explain that again?",
+      "to": "¿Podrías explicarlo otra vez?"
+    },
+    {
+      "id": "biz_14",
+      "from": "That works for us.",
+      "to": "Eso nos funciona."
+    },
+    {
+      "id": "biz_15",
+      "from": "We agree with the proposal.",
+      "to": "Estamos de acuerdo con la propuesta."
+    },
+    {
+      "id": "biz_16",
+      "from": "We need a few changes.",
+      "to": "Necesitamos algunos cambios."
+    },
+    {
+      "id": "biz_17",
+      "from": "What is the delivery time?",
+      "to": "¿Cuál es el plazo de entrega?"
+    },
+    {
+      "id": "biz_18",
+      "from": "We will follow up next week.",
+      "to": "Haremos seguimiento la próxima semana."
+    },
+    {
+      "id": "biz_19",
+      "from": "Thank you for your time.",
+      "to": "Gracias por tu tiempo."
+    },
+    {
+      "id": "biz_20",
+      "from": "Looking forward to working together.",
+      "to": "Espero que trabajemos juntos."
+    },
+    {
+      "id": "biz_21",
+      "from": "Could we move the meeting to Friday?",
+      "to": "¿Podríamos pasar la reunión al viernes?"
+    },
+    {
+      "id": "biz_22",
+      "from": "I need to check my calendar first.",
+      "to": "Primero necesito revisar mi calendario."
+    },
+    {
+      "id": "biz_23",
+      "from": "The meeting has been postponed.",
+      "to": "La reunión se ha pospuesto."
+    },
+    {
+      "id": "biz_24",
+      "from": "The deadline is next Monday.",
+      "to": "La fecha límite es el próximo lunes."
+    },
+    {
+      "id": "biz_25",
+      "from": "We are running behind schedule.",
+      "to": "Vamos con retraso."
+    },
+    {
+      "id": "biz_26",
+      "from": "We finished the project on time.",
+      "to": "Terminamos el proyecto a tiempo."
+    },
+    {
+      "id": "biz_27",
+      "from": "Could you share the presentation?",
+      "to": "¿Podrías compartir la presentación?"
+    },
+    {
+      "id": "biz_28",
+      "from": "I will upload the file after the call.",
+      "to": "Subiré el archivo después de la llamada."
+    },
+    {
+      "id": "biz_29",
+      "from": "Please review the latest version.",
+      "to": "Por favor, revisa la última versión."
+    },
+    {
+      "id": "biz_30",
+      "from": "There are a few comments in the document.",
+      "to": "Hay algunos comentarios en el documento."
+    },
+    {
+      "id": "biz_31",
+      "from": "We need approval from management.",
+      "to": "Necesitamos la aprobación de la dirección."
+    },
+    {
+      "id": "biz_32",
+      "from": "The client approved the design.",
+      "to": "El cliente aprobó el diseño."
+    },
+    {
+      "id": "biz_33",
+      "from": "Can we discuss the budget?",
+      "to": "¿Podemos hablar del presupuesto?"
+    },
+    {
+      "id": "biz_34",
+      "from": "The budget is higher than expected.",
+      "to": "El presupuesto es más alto de lo esperado."
+    },
+    {
+      "id": "biz_35",
+      "from": "We need to reduce the costs.",
+      "to": "Necesitamos reducir los costes."
+    },
+    {
+      "id": "biz_36",
+      "from": "This option is more expensive but faster.",
+      "to": "Esta opción es más cara pero más rápida."
+    },
+    {
+      "id": "biz_37",
+      "from": "What are the next steps?",
+      "to": "¿Cuáles son los próximos pasos?"
+    },
+    {
+      "id": "biz_38",
+      "from": "I will prepare an action plan.",
+      "to": "Prepararé un plan de acción."
+    },
+    {
+      "id": "biz_39",
+      "from": "Who is responsible for this task?",
+      "to": "¿Quién es responsable de esta tarea?"
+    },
+    {
+      "id": "biz_40",
+      "from": "I can take care of that.",
+      "to": "Yo puedo encargarme de eso."
+    },
+    {
+      "id": "biz_41",
+      "from": "We need more information before deciding.",
+      "to": "Necesitamos más información antes de decidir."
+    },
+    {
+      "id": "biz_42",
+      "from": "Could you send the details today?",
+      "to": "¿Podrías enviar los detalles hoy?"
+    },
+    {
+      "id": "biz_43",
+      "from": "The report is almost ready.",
+      "to": "El informe está casi listo."
+    },
+    {
+      "id": "biz_44",
+      "from": "I found a mistake in the numbers.",
+      "to": "Encontré un error en las cifras."
+    },
+    {
+      "id": "biz_45",
+      "from": "The sales figures improved this month.",
+      "to": "Las cifras de ventas mejoraron este mes."
+    },
+    {
+      "id": "biz_46",
+      "from": "Revenue was lower than expected.",
+      "to": "Los ingresos fueron más bajos de lo esperado."
+    },
+    {
+      "id": "biz_47",
+      "from": "We should focus on customer feedback.",
+      "to": "Deberíamos centrarnos en los comentarios de los clientes."
+    },
+    {
+      "id": "biz_48",
+      "from": "The customer asked for a refund.",
+      "to": "El cliente pidió un reembolso."
+    },
+    {
+      "id": "biz_49",
+      "from": "We handled the complaint quickly.",
+      "to": "Gestionamos la queja rápidamente."
+    },
+    {
+      "id": "biz_50",
+      "from": "Customer support is very busy today.",
+      "to": "Atención al cliente está muy ocupado hoy."
+    },
+    {
+      "id": "biz_51",
+      "from": "Could you join the video call?",
+      "to": "¿Podrías unirte a la videollamada?"
+    },
+    {
+      "id": "biz_52",
+      "from": "Your microphone is muted.",
+      "to": "Tu micrófono está silenciado."
+    },
+    {
+      "id": "biz_53",
+      "from": "The connection is not very stable.",
+      "to": "La conexión no es muy estable."
+    },
+    {
+      "id": "biz_54",
+      "from": "I cannot see your screen.",
+      "to": "No puedo ver tu pantalla."
+    },
+    {
+      "id": "biz_55",
+      "from": "Let me share my screen.",
+      "to": "Déjame compartir mi pantalla."
+    },
+    {
+      "id": "biz_56",
+      "from": "Can everyone hear me clearly?",
+      "to": "¿Todos me oyen claramente?"
+    },
+    {
+      "id": "biz_57",
+      "from": "We lost a few minutes because of a technical issue.",
+      "to": "Perdimos unos minutos por un problema técnico."
+    },
+    {
+      "id": "biz_58",
+      "from": "I will summarize the decision in an email.",
+      "to": "Resumiré la decisión en un correo."
+    },
+    {
+      "id": "biz_59",
+      "from": "Please confirm receipt of this message.",
+      "to": "Por favor, confirma la recepción de este mensaje."
+    },
+    {
+      "id": "biz_60",
+      "from": "I copied you on the email.",
+      "to": "Te puse en copia en el correo."
+    },
+    {
+      "id": "biz_61",
+      "from": "Could you forward this to the team?",
+      "to": "¿Podrías reenviar esto al equipo?"
+    },
+    {
+      "id": "biz_62",
+      "from": "We need to update the contract.",
+      "to": "Necesitamos actualizar el contrato."
+    },
+    {
+      "id": "biz_63",
+      "from": "The contract is valid for one year.",
+      "to": "El contrato es válido por un año."
+    },
+    {
+      "id": "biz_64",
+      "from": "Please sign the agreement electronically.",
+      "to": "Por favor, firma el acuerdo electrónicamente."
+    },
+    {
+      "id": "biz_65",
+      "from": "The invoice is due next week.",
+      "to": "La factura vence la próxima semana."
+    },
+    {
+      "id": "biz_66",
+      "from": "We have not received the payment yet.",
+      "to": "Todavía no hemos recibido el pago."
+    },
+    {
+      "id": "biz_67",
+      "from": "Could you send the invoice again?",
+      "to": "¿Podrías enviar la factura de nuevo?"
+    },
+    {
+      "id": "biz_68",
+      "from": "The payment was processed yesterday.",
+      "to": "El pago se procesó ayer."
+    },
+    {
+      "id": "biz_69",
+      "from": "We need a purchase order number.",
+      "to": "Necesitamos un número de orden de compra."
+    },
+    {
+      "id": "biz_70",
+      "from": "The shipment will arrive on Tuesday.",
+      "to": "El envío llegará el martes."
+    },
+    {
+      "id": "biz_71",
+      "from": "There was a delay in production.",
+      "to": "Hubo un retraso en la producción."
+    },
+    {
+      "id": "biz_72",
+      "from": "The supplier cannot deliver this week.",
+      "to": "El proveedor no puede entregar esta semana."
+    },
+    {
+      "id": "biz_73",
+      "from": "We need to find another supplier.",
+      "to": "Necesitamos encontrar otro proveedor."
+    },
+    {
+      "id": "biz_74",
+      "from": "The quality is better than last time.",
+      "to": "La calidad es mejor que la última vez."
+    },
+    {
+      "id": "biz_75",
+      "from": "This product meets our requirements.",
+      "to": "Este producto cumple nuestros requisitos."
+    },
+    {
+      "id": "biz_76",
+      "from": "We should test it before launch.",
+      "to": "Deberíamos probarlo antes del lanzamiento."
+    },
+    {
+      "id": "biz_77",
+      "from": "The launch date has changed.",
+      "to": "La fecha de lanzamiento ha cambiado."
+    },
+    {
+      "id": "biz_78",
+      "from": "Marketing needs the final text today.",
+      "to": "Marketing necesita el texto final hoy."
+    },
+    {
+      "id": "biz_79",
+      "from": "The campaign starts next week.",
+      "to": "La campaña empieza la próxima semana."
+    },
+    {
+      "id": "biz_80",
+      "from": "We received positive feedback from users.",
+      "to": "Recibimos comentarios positivos de los usuarios."
+    },
+    {
+      "id": "biz_81",
+      "from": "The team did a great job.",
+      "to": "El equipo hizo un gran trabajo."
+    },
+    {
+      "id": "biz_82",
+      "from": "We need to hire one more person.",
+      "to": "Necesitamos contratar a una persona más."
+    },
+    {
+      "id": "biz_83",
+      "from": "The interview went very well.",
+      "to": "La entrevista fue muy bien."
+    },
+    {
+      "id": "biz_84",
+      "from": "She has experience in project management.",
+      "to": "Ella tiene experiencia en gestión de proyectos."
+    },
+    {
+      "id": "biz_85",
+      "from": "He will start at the beginning of June.",
+      "to": "Él empezará a principios de junio."
+    },
+    {
+      "id": "biz_86",
+      "from": "We should organize a training session.",
+      "to": "Deberíamos organizar una sesión de formación."
+    },
+    {
+      "id": "biz_87",
+      "from": "The new process saves time.",
+      "to": "El nuevo proceso ahorra tiempo."
+    },
+    {
+      "id": "biz_88",
+      "from": "This tool helps us work faster.",
+      "to": "Esta herramienta nos ayuda a trabajar más rápido."
+    },
+    {
+      "id": "biz_89",
+      "from": "We need to protect customer data.",
+      "to": "Necesitamos proteger los datos de los clientes."
+    },
+    {
+      "id": "biz_90",
+      "from": "Please do not share confidential information.",
+      "to": "Por favor, no compartas información confidencial."
+    },
+    {
+      "id": "biz_91",
+      "from": "Can we make this simpler?",
+      "to": "¿Podemos hacerlo más simple?"
+    },
+    {
+      "id": "biz_92",
+      "from": "The explanation was clear and useful.",
+      "to": "La explicación fue clara y útil."
+    },
+    {
+      "id": "biz_93",
+      "from": "I need a short break before the next call.",
+      "to": "Necesito un breve descanso antes de la próxima llamada."
+    },
+    {
+      "id": "biz_94",
+      "from": "Let us continue after lunch.",
+      "to": "Continuemos después del almuerzo."
+    },
+    {
+      "id": "biz_95",
+      "from": "I appreciate your quick response.",
+      "to": "Agradezco tu rápida respuesta."
+    },
+    {
+      "id": "biz_96",
+      "from": "Thank you for clarifying the issue.",
+      "to": "Gracias por aclarar el problema."
+    },
+    {
+      "id": "biz_97",
+      "from": "Please keep me updated.",
+      "to": "Por favor, mantenme informado."
+    },
+    {
+      "id": "biz_98",
+      "from": "I will get back to you tomorrow.",
+      "to": "Te responderé mañana."
+    },
+    {
+      "id": "biz_99",
+      "from": "This is a good opportunity for both sides.",
+      "to": "Esta es una buena oportunidad para ambas partes."
+    },
+    {
+      "id": "biz_100",
+      "from": "We are ready to move forward.",
+      "to": "Estamos listos para avanzar."
+    }
   ]
 }

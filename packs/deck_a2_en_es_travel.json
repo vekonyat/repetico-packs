@@ -1,25 +1,505 @@
 {
   "id": "deck_a2_en_es_travel",
   "items": [
-    { "id": "tr_1",  "from": "I have a reservation under my name.", "to": "Tengo una reserva a mi nombre." },
-    { "id": "tr_2",  "from": "Can I check in now?", "to": "¿Puedo hacer el check-in ahora?" },
-    { "id": "tr_3",  "from": "What time is breakfast?", "to": "¿A qué hora es el desayuno?" },
-    { "id": "tr_4",  "from": "Is Wi-Fi included?", "to": "¿El Wi-Fi está incluido?" },
-    { "id": "tr_5",  "from": "Could I get a room with a view?", "to": "¿Podría tener una habitación con vistas?" },
-    { "id": "tr_6",  "from": "I would like a table for two, please.", "to": "Me gustaría una mesa para dos, por favor." },
-    { "id": "tr_7",  "from": "Do you have a menu in English?", "to": "¿Tienen un menú en inglés?" },
-    { "id": "tr_8",  "from": "I am allergic to nuts.", "to": "Soy alérgico a los frutos secos." },
-    { "id": "tr_9",  "from": "Can I pay by card?", "to": "¿Puedo pagar con tarjeta?" },
-    { "id": "tr_10", "from": "How much is it in total?", "to": "¿Cuánto es en total?" },
-    { "id": "tr_11", "from": "Where is the nearest metro station?", "to": "¿Dónde está la estación de metro más cercana?" },
-    { "id": "tr_12", "from": "Which bus goes to the city center?", "to": "¿Qué autobús va al centro?" },
-    { "id": "tr_13", "from": "One ticket, please.", "to": "Un billete, por favor." },
-    { "id": "tr_14", "from": "How long does it take?", "to": "¿Cuánto tarda?" },
-    { "id": "tr_15", "from": "I am looking for the airport.", "to": "Estoy buscando el aeropuerto." },
-    { "id": "tr_16", "from": "Can you show me on the map?", "to": "¿Me lo puedes mostrar en el mapa?" },
-    { "id": "tr_17", "from": "I would like to rent a car.", "to": "Me gustaría alquilar un coche." },
-    { "id": "tr_18", "from": "Do I need insurance?", "to": "¿Necesito seguro?" },
-    { "id": "tr_19", "from": "I lost my passport.", "to": "He perdido mi pasaporte." },
-    { "id": "tr_20", "from": "Can you help me, please?", "to": "¿Puede ayudarme, por favor?" }
+    {
+      "id": "tr_1",
+      "from": "I have a reservation under my name.",
+      "to": "Tengo una reserva a mi nombre."
+    },
+    {
+      "id": "tr_2",
+      "from": "Can I check in now?",
+      "to": "¿Puedo hacer el check-in ahora?"
+    },
+    {
+      "id": "tr_3",
+      "from": "What time is breakfast?",
+      "to": "¿A qué hora es el desayuno?"
+    },
+    {
+      "id": "tr_4",
+      "from": "Is Wi-Fi included?",
+      "to": "¿El Wi-Fi está incluido?"
+    },
+    {
+      "id": "tr_5",
+      "from": "Could I get a room with a view?",
+      "to": "¿Podría tener una habitación con vistas?"
+    },
+    {
+      "id": "tr_6",
+      "from": "I would like a table for two, please.",
+      "to": "Me gustaría una mesa para dos, por favor."
+    },
+    {
+      "id": "tr_7",
+      "from": "Do you have a menu in English?",
+      "to": "¿Tienen un menú en inglés?"
+    },
+    {
+      "id": "tr_8",
+      "from": "I am allergic to nuts.",
+      "to": "Soy alérgico a los frutos secos."
+    },
+    {
+      "id": "tr_9",
+      "from": "Can I pay by card?",
+      "to": "¿Puedo pagar con tarjeta?"
+    },
+    {
+      "id": "tr_10",
+      "from": "How much is it in total?",
+      "to": "¿Cuánto es en total?"
+    },
+    {
+      "id": "tr_11",
+      "from": "Where is the nearest metro station?",
+      "to": "¿Dónde está la estación de metro más cercana?"
+    },
+    {
+      "id": "tr_12",
+      "from": "Which bus goes to the city center?",
+      "to": "¿Qué autobús va al centro?"
+    },
+    {
+      "id": "tr_13",
+      "from": "One ticket, please.",
+      "to": "Un billete, por favor."
+    },
+    {
+      "id": "tr_14",
+      "from": "How long does it take?",
+      "to": "¿Cuánto tarda?"
+    },
+    {
+      "id": "tr_15",
+      "from": "I am looking for the airport.",
+      "to": "Estoy buscando el aeropuerto."
+    },
+    {
+      "id": "tr_16",
+      "from": "Can you show me on the map?",
+      "to": "¿Me lo puedes mostrar en el mapa?"
+    },
+    {
+      "id": "tr_17",
+      "from": "I would like to rent a car.",
+      "to": "Me gustaría alquilar un coche."
+    },
+    {
+      "id": "tr_18",
+      "from": "Do I need insurance?",
+      "to": "¿Necesito seguro?"
+    },
+    {
+      "id": "tr_19",
+      "from": "I lost my passport.",
+      "to": "He perdido mi pasaporte."
+    },
+    {
+      "id": "tr_20",
+      "from": "Can you help me, please?",
+      "to": "¿Puede ayudarme, por favor?"
+    },
+    {
+      "id": "tr_21",
+      "from": "My flight has been delayed.",
+      "to": "Mi vuelo se ha retrasado."
+    },
+    {
+      "id": "tr_22",
+      "from": "Where is the departure gate?",
+      "to": "¿Dónde está la puerta de embarque?"
+    },
+    {
+      "id": "tr_23",
+      "from": "I need to change my ticket.",
+      "to": "Necesito cambiar mi billete."
+    },
+    {
+      "id": "tr_24",
+      "from": "Is this seat taken?",
+      "to": "¿Está ocupado este asiento?"
+    },
+    {
+      "id": "tr_25",
+      "from": "Could you put my bag here?",
+      "to": "¿Podría poner mi bolsa aquí?"
+    },
+    {
+      "id": "tr_26",
+      "from": "I have only hand luggage.",
+      "to": "Solo llevo equipaje de mano."
+    },
+    {
+      "id": "tr_27",
+      "from": "Where can I collect my suitcase?",
+      "to": "¿Dónde puedo recoger mi maleta?"
+    },
+    {
+      "id": "tr_28",
+      "from": "My suitcase has not arrived.",
+      "to": "Mi maleta no ha llegado."
+    },
+    {
+      "id": "tr_29",
+      "from": "I need a taxi to the hotel.",
+      "to": "Necesito un taxi al hotel."
+    },
+    {
+      "id": "tr_30",
+      "from": "Please take me to this address.",
+      "to": "Lléveme a esta dirección, por favor."
+    },
+    {
+      "id": "tr_31",
+      "from": "Can you turn on the meter?",
+      "to": "¿Puede encender el taxímetro?"
+    },
+    {
+      "id": "tr_32",
+      "from": "How far is the city center?",
+      "to": "¿A qué distancia está el centro?"
+    },
+    {
+      "id": "tr_33",
+      "from": "I would like to buy a day pass.",
+      "to": "Me gustaría comprar un pase de un día."
+    },
+    {
+      "id": "tr_34",
+      "from": "Does this train stop in Valencia?",
+      "to": "¿Este tren para en Valencia?"
+    },
+    {
+      "id": "tr_35",
+      "from": "I think we missed our stop.",
+      "to": "Creo que nos hemos pasado de parada."
+    },
+    {
+      "id": "tr_36",
+      "from": "Where can I buy a SIM card?",
+      "to": "¿Dónde puedo comprar una tarjeta SIM?"
+    },
+    {
+      "id": "tr_37",
+      "from": "I need mobile data for one week.",
+      "to": "Necesito datos móviles para una semana."
+    },
+    {
+      "id": "tr_38",
+      "from": "The Wi-Fi password does not work.",
+      "to": "La contraseña del Wi-Fi no funciona."
+    },
+    {
+      "id": "tr_39",
+      "from": "Could you call reception?",
+      "to": "¿Podría llamar a recepción?"
+    },
+    {
+      "id": "tr_40",
+      "from": "The air conditioning is too cold.",
+      "to": "El aire acondicionado está demasiado frío."
+    },
+    {
+      "id": "tr_41",
+      "from": "There is no hot water.",
+      "to": "No hay agua caliente."
+    },
+    {
+      "id": "tr_42",
+      "from": "Could someone clean the room?",
+      "to": "¿Podría alguien limpiar la habitación?"
+    },
+    {
+      "id": "tr_43",
+      "from": "Can I leave my luggage here?",
+      "to": "¿Puedo dejar mi equipaje aquí?"
+    },
+    {
+      "id": "tr_44",
+      "from": "What time is check-out?",
+      "to": "¿A qué hora es la salida?"
+    },
+    {
+      "id": "tr_45",
+      "from": "Could I have a late check-out?",
+      "to": "¿Podría salir más tarde?"
+    },
+    {
+      "id": "tr_46",
+      "from": "I would like a receipt, please.",
+      "to": "Quisiera un recibo, por favor."
+    },
+    {
+      "id": "tr_47",
+      "from": "Is service included?",
+      "to": "¿El servicio está incluido?"
+    },
+    {
+      "id": "tr_48",
+      "from": "Could we sit outside?",
+      "to": "¿Podríamos sentarnos fuera?"
+    },
+    {
+      "id": "tr_49",
+      "from": "What do you recommend?",
+      "to": "¿Qué recomienda?"
+    },
+    {
+      "id": "tr_50",
+      "from": "I would like something vegetarian.",
+      "to": "Me gustaría algo vegetariano."
+    },
+    {
+      "id": "tr_51",
+      "from": "This dish is too spicy for me.",
+      "to": "Este plato es demasiado picante para mí."
+    },
+    {
+      "id": "tr_52",
+      "from": "Could I have the bill, please?",
+      "to": "¿Me trae la cuenta, por favor?"
+    },
+    {
+      "id": "tr_53",
+      "from": "We ordered twenty minutes ago.",
+      "to": "Pedimos hace veinte minutos."
+    },
+    {
+      "id": "tr_54",
+      "from": "I think this is not my order.",
+      "to": "Creo que este no es mi pedido."
+    },
+    {
+      "id": "tr_55",
+      "from": "Where is the tourist information office?",
+      "to": "¿Dónde está la oficina de turismo?"
+    },
+    {
+      "id": "tr_56",
+      "from": "Are there guided tours today?",
+      "to": "¿Hay visitas guiadas hoy?"
+    },
+    {
+      "id": "tr_57",
+      "from": "How much is the entrance fee?",
+      "to": "¿Cuánto cuesta la entrada?"
+    },
+    {
+      "id": "tr_58",
+      "from": "Can I take photos here?",
+      "to": "¿Puedo hacer fotos aquí?"
+    },
+    {
+      "id": "tr_59",
+      "from": "The museum is closed on Mondays.",
+      "to": "El museo está cerrado los lunes."
+    },
+    {
+      "id": "tr_60",
+      "from": "We would like to visit the old town.",
+      "to": "Nos gustaría visitar el casco antiguo."
+    },
+    {
+      "id": "tr_61",
+      "from": "Is it safe to walk there at night?",
+      "to": "¿Es seguro caminar allí por la noche?"
+    },
+    {
+      "id": "tr_62",
+      "from": "I need directions to the beach.",
+      "to": "Necesito indicaciones para ir a la playa."
+    },
+    {
+      "id": "tr_63",
+      "from": "Turn left after the bridge.",
+      "to": "Gire a la izquierda después del puente."
+    },
+    {
+      "id": "tr_64",
+      "from": "Go straight until the square.",
+      "to": "Siga recto hasta la plaza."
+    },
+    {
+      "id": "tr_65",
+      "from": "The pharmacy is next to the bank.",
+      "to": "La farmacia está al lado del banco."
+    },
+    {
+      "id": "tr_66",
+      "from": "I need medicine for a headache.",
+      "to": "Necesito medicina para el dolor de cabeza."
+    },
+    {
+      "id": "tr_67",
+      "from": "I do not feel well today.",
+      "to": "No me encuentro bien hoy."
+    },
+    {
+      "id": "tr_68",
+      "from": "Is there a hospital nearby?",
+      "to": "¿Hay un hospital cerca?"
+    },
+    {
+      "id": "tr_69",
+      "from": "I need to report a theft.",
+      "to": "Necesito denunciar un robo."
+    },
+    {
+      "id": "tr_70",
+      "from": "My wallet was stolen.",
+      "to": "Me robaron la cartera."
+    },
+    {
+      "id": "tr_71",
+      "from": "Can I use your phone?",
+      "to": "¿Puedo usar su teléfono?"
+    },
+    {
+      "id": "tr_72",
+      "from": "I need to contact my embassy.",
+      "to": "Necesito contactar con mi embajada."
+    },
+    {
+      "id": "tr_73",
+      "from": "We are staying for three nights.",
+      "to": "Nos quedamos tres noches."
+    },
+    {
+      "id": "tr_74",
+      "from": "We are leaving early tomorrow.",
+      "to": "Nos vamos temprano mañana."
+    },
+    {
+      "id": "tr_75",
+      "from": "I would like to book a tour for Saturday.",
+      "to": "Me gustaría reservar una excursión para el sábado."
+    },
+    {
+      "id": "tr_76",
+      "from": "Does the price include lunch?",
+      "to": "¿El precio incluye el almuerzo?"
+    },
+    {
+      "id": "tr_77",
+      "from": "What should I bring with me?",
+      "to": "¿Qué debo llevar conmigo?"
+    },
+    {
+      "id": "tr_78",
+      "from": "The weather may change quickly.",
+      "to": "El tiempo puede cambiar rápidamente."
+    },
+    {
+      "id": "tr_79",
+      "from": "I forgot my sunglasses at the hotel.",
+      "to": "Olvidé mis gafas de sol en el hotel."
+    },
+    {
+      "id": "tr_80",
+      "from": "Could you recommend a local restaurant?",
+      "to": "¿Podría recomendarme un restaurante local?"
+    },
+    {
+      "id": "tr_81",
+      "from": "This place is more crowded than expected.",
+      "to": "Este lugar está más lleno de lo esperado."
+    },
+    {
+      "id": "tr_82",
+      "from": "The view from here is beautiful.",
+      "to": "La vista desde aquí es preciosa."
+    },
+    {
+      "id": "tr_83",
+      "from": "I would like to buy a small gift.",
+      "to": "Me gustaría comprar un pequeño regalo."
+    },
+    {
+      "id": "tr_84",
+      "from": "Do you have this in another size?",
+      "to": "¿Tiene esto en otra talla?"
+    },
+    {
+      "id": "tr_85",
+      "from": "Can I try it on?",
+      "to": "¿Puedo probármelo?"
+    },
+    {
+      "id": "tr_86",
+      "from": "That is a little too expensive.",
+      "to": "Eso es un poco demasiado caro."
+    },
+    {
+      "id": "tr_87",
+      "from": "Is there a cheaper option?",
+      "to": "¿Hay una opción más barata?"
+    },
+    {
+      "id": "tr_88",
+      "from": "I need an adapter for my charger.",
+      "to": "Necesito un adaptador para mi cargador."
+    },
+    {
+      "id": "tr_89",
+      "from": "Where can I exchange money?",
+      "to": "¿Dónde puedo cambiar dinero?"
+    },
+    {
+      "id": "tr_90",
+      "from": "What is the exchange rate?",
+      "to": "¿Cuál es el tipo de cambio?"
+    },
+    {
+      "id": "tr_91",
+      "from": "I would like to withdraw cash.",
+      "to": "Me gustaría sacar efectivo."
+    },
+    {
+      "id": "tr_92",
+      "from": "The ATM kept my card.",
+      "to": "El cajero se quedó con mi tarjeta."
+    },
+    {
+      "id": "tr_93",
+      "from": "Could you speak more slowly, please?",
+      "to": "¿Podría hablar más despacio, por favor?"
+    },
+    {
+      "id": "tr_94",
+      "from": "I only speak a little Spanish.",
+      "to": "Solo hablo un poco de español."
+    },
+    {
+      "id": "tr_95",
+      "from": "Could you write the address down?",
+      "to": "¿Podría escribir la dirección?"
+    },
+    {
+      "id": "tr_96",
+      "from": "Please send the location to my phone.",
+      "to": "Por favor, envíe la ubicación a mi teléfono."
+    },
+    {
+      "id": "tr_97",
+      "from": "We had a wonderful trip.",
+      "to": "Tuvimos un viaje maravilloso."
+    },
+    {
+      "id": "tr_98",
+      "from": "I hope to come back soon.",
+      "to": "Espero volver pronto."
+    },
+    {
+      "id": "tr_99",
+      "from": "Thank you for your help during our stay.",
+      "to": "Gracias por su ayuda durante nuestra estancia."
+    },
+    {
+      "id": "tr_100",
+      "from": "Have a safe journey home.",
+      "to": "Que tenga un buen viaje de regreso."
+    }
   ]
 }

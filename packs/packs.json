@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-25",
+  "updatedAt": "2026-05-13",
   "packs": [
     {
       "id": "deck_a1_en_es",
@@ -16,7 +16,7 @@
       "level": "a2",
       "from": "en",
       "to": "es",
-      "count": 40,
+      "count": 100,
       "url": "https://raw.githubusercontent.com/vekonyat/repetico-packs/main/packs/deck_a2_en_es.json"
     },
     {
@@ -25,7 +25,7 @@
       "level": "a2",
       "from": "en",
       "to": "es",
-      "count": 20,
+      "count": 100,
       "url": "https://raw.githubusercontent.com/vekonyat/repetico-packs/main/packs/deck_a2_en_es_business.json"
     },
     {
@@ -34,7 +34,7 @@
       "level": "a2",
       "from": "en",
       "to": "es",
-      "count": 20,
+      "count": 100,
       "url": "https://raw.githubusercontent.com/vekonyat/repetico-packs/main/packs/deck_a2_en_es_travel.json"
     },
     {

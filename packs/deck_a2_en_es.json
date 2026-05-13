@@ -1,45 +1,505 @@
 {
   "id": "deck_a2_en_es",
   "items": [
-    { "id": "a2_1",  "from": "What time does the meeting start?", "to": "¿A qué hora empieza la reunión?" },
-    { "id": "a2_2",  "from": "It starts at eleven o'clock.", "to": "Empieza a las once." },
-    { "id": "a2_3",  "from": "I am working from home today.", "to": "Hoy trabajo desde casa." },
-    { "id": "a2_4",  "from": "I usually get up at eight.", "to": "Normalmente me levanto a las ocho." },
-    { "id": "a2_5",  "from": "Can you send me the document today?", "to": "¿Puedes enviarme el documento hoy?" },
-    { "id": "a2_6",  "from": "I will send it in a few minutes.", "to": "Lo enviaré en unos minutos." },
-    { "id": "a2_7",  "from": "I have to make a phone call.", "to": "Tengo que hacer una llamada." },
-    { "id": "a2_8",  "from": "Sorry, I am busy right now.", "to": "Perdón, estoy ocupado ahora mismo." },
-    { "id": "a2_9",  "from": "Let's talk later.", "to": "Hablemos más tarde." },
-    { "id": "a2_10", "from": "Could you help me with this?", "to": "¿Podrías ayudarme con esto?" },
-    { "id": "a2_11", "from": "I need to practice Spanish every day.", "to": "Necesito practicar español todos los días." },
-    { "id": "a2_12", "from": "I am trying to learn new words.", "to": "Estoy intentando aprender palabras nuevas." },
-    { "id": "a2_13", "from": "I would like to pay by card.", "to": "Me gustaría pagar con tarjeta." },
-    { "id": "a2_14", "from": "How much does it cost?", "to": "¿Cuánto cuesta?" },
-    { "id": "a2_15", "from": "It is too expensive for me.", "to": "Es demasiado caro para mí." },
-    { "id": "a2_16", "from": "I am looking for a quiet place.", "to": "Busco un lugar tranquilo." },
-    { "id": "a2_17", "from": "I like walking near the lake.", "to": "Me gusta caminar cerca del lago." },
-    { "id": "a2_18", "from": "Today the weather is better than yesterday.", "to": "Hoy hace mejor tiempo que ayer." },
-    { "id": "a2_19", "from": "I will be there in ten minutes.", "to": "Estaré allí en diez minutos." },
-    { "id": "a2_20", "from": "If you want, we can meet on Thursday.", "to": "Si quieres, podemos quedar el jueves." },
-    { "id": "a2_21", "from": "I forgot my password.", "to": "Olvidé mi contraseña." },
-    { "id": "a2_22", "from": "Can you reset it for me?", "to": "¿Puedes restablecerla para mí?" },
-    { "id": "a2_23", "from": "I will check my email.", "to": "Voy a revisar mi correo." },
-    { "id": "a2_24", "from": "The internet is very slow today.", "to": "El internet está muy lento hoy." },
-    { "id": "a2_25", "from": "My connection keeps dropping.", "to": "Mi conexión se corta todo el tiempo." },
-    { "id": "a2_26", "from": "Can you call me when you are free?", "to": "¿Puedes llamarme cuando estés libre?" },
-    { "id": "a2_27", "from": "I am on my way.", "to": "Estoy de camino." },
-    { "id": "a2_28", "from": "I will arrive a little late.", "to": "Llegaré un poco tarde." },
-    { "id": "a2_29", "from": "Do you have any plans for the weekend?", "to": "¿Tienes planes para el fin de semana?" },
-    { "id": "a2_30", "from": "I want to relax at home.", "to": "Quiero relajarme en casa." },
-    { "id": "a2_31", "from": "Let's have lunch together.", "to": "Comamos juntos." },
-    { "id": "a2_32", "from": "I prefer something light.", "to": "Prefiero algo ligero." },
-    { "id": "a2_33", "from": "Could you speak more slowly?", "to": "¿Podrías hablar más despacio?" },
-    { "id": "a2_34", "from": "I am learning Spanish, so I make mistakes.", "to": "Estoy aprendiendo español, así que cometo errores." },
-    { "id": "a2_35", "from": "Can you write it down, please?", "to": "¿Puedes escribirlo, por favor?" },
-    { "id": "a2_36", "from": "I need to buy a few things.", "to": "Necesito comprar algunas cosas." },
-    { "id": "a2_37", "from": "The shop is closed today.", "to": "La tienda está cerrada hoy." },
-    { "id": "a2_38", "from": "Let's meet in front of the station.", "to": "Quedemos delante de la estación." },
-    { "id": "a2_39", "from": "I will send you the address.", "to": "Te enviaré la dirección." },
-    { "id": "a2_40", "from": "See you soon!", "to": "¡Hasta pronto!" }
+    {
+      "id": "a2_1",
+      "from": "What time does the meeting start?",
+      "to": "¿A qué hora empieza la reunión?"
+    },
+    {
+      "id": "a2_2",
+      "from": "It starts at eleven o'clock.",
+      "to": "Empieza a las once."
+    },
+    {
+      "id": "a2_3",
+      "from": "I am working from home today.",
+      "to": "Hoy trabajo desde casa."
+    },
+    {
+      "id": "a2_4",
+      "from": "I usually get up at eight.",
+      "to": "Normalmente me levanto a las ocho."
+    },
+    {
+      "id": "a2_5",
+      "from": "Can you send me the document today?",
+      "to": "¿Puedes enviarme el documento hoy?"
+    },
+    {
+      "id": "a2_6",
+      "from": "I will send it in a few minutes.",
+      "to": "Lo enviaré en unos minutos."
+    },
+    {
+      "id": "a2_7",
+      "from": "I have to make a phone call.",
+      "to": "Tengo que hacer una llamada."
+    },
+    {
+      "id": "a2_8",
+      "from": "Sorry, I am busy right now.",
+      "to": "Perdón, estoy ocupado ahora mismo."
+    },
+    {
+      "id": "a2_9",
+      "from": "Let's talk later.",
+      "to": "Hablemos más tarde."
+    },
+    {
+      "id": "a2_10",
+      "from": "Could you help me with this?",
+      "to": "¿Podrías ayudarme con esto?"
+    },
+    {
+      "id": "a2_11",
+      "from": "I need to practice Spanish every day.",
+      "to": "Necesito practicar español todos los días."
+    },
+    {
+      "id": "a2_12",
+      "from": "I am trying to learn new words.",
+      "to": "Estoy intentando aprender palabras nuevas."
+    },
+    {
+      "id": "a2_13",
+      "from": "I would like to pay by card.",
+      "to": "Me gustaría pagar con tarjeta."
+    },
+    {
+      "id": "a2_14",
+      "from": "How much does it cost?",
+      "to": "¿Cuánto cuesta?"
+    },
+    {
+      "id": "a2_15",
+      "from": "It is too expensive for me.",
+      "to": "Es demasiado caro para mí."
+    },
+    {
+      "id": "a2_16",
+      "from": "I am looking for a quiet place.",
+      "to": "Busco un lugar tranquilo."
+    },
+    {
+      "id": "a2_17",
+      "from": "I like walking near the lake.",
+      "to": "Me gusta caminar cerca del lago."
+    },
+    {
+      "id": "a2_18",
+      "from": "Today the weather is better than yesterday.",
+      "to": "Hoy hace mejor tiempo que ayer."
+    },
+    {
+      "id": "a2_19",
+      "from": "I will be there in ten minutes.",
+      "to": "Estaré allí en diez minutos."
+    },
+    {
+      "id": "a2_20",
+      "from": "If you want, we can meet on Thursday.",
+      "to": "Si quieres, podemos quedar el jueves."
+    },
+    {
+      "id": "a2_21",
+      "from": "I forgot my password.",
+      "to": "Olvidé mi contraseña."
+    },
+    {
+      "id": "a2_22",
+      "from": "Can you reset it for me?",
+      "to": "¿Puedes restablecerla para mí?"
+    },
+    {
+      "id": "a2_23",
+      "from": "I will check my email.",
+      "to": "Voy a revisar mi correo."
+    },
+    {
+      "id": "a2_24",
+      "from": "The internet is very slow today.",
+      "to": "El internet está muy lento hoy."
+    },
+    {
+      "id": "a2_25",
+      "from": "My connection keeps dropping.",
+      "to": "Mi conexión se corta todo el tiempo."
+    },
+    {
+      "id": "a2_26",
+      "from": "Can you call me when you are free?",
+      "to": "¿Puedes llamarme cuando estés libre?"
+    },
+    {
+      "id": "a2_27",
+      "from": "I am on my way.",
+      "to": "Estoy de camino."
+    },
+    {
+      "id": "a2_28",
+      "from": "I will arrive a little late.",
+      "to": "Llegaré un poco tarde."
+    },
+    {
+      "id": "a2_29",
+      "from": "Do you have any plans for the weekend?",
+      "to": "¿Tienes planes para el fin de semana?"
+    },
+    {
+      "id": "a2_30",
+      "from": "I want to relax at home.",
+      "to": "Quiero relajarme en casa."
+    },
+    {
+      "id": "a2_31",
+      "from": "Let's have lunch together.",
+      "to": "Comamos juntos."
+    },
+    {
+      "id": "a2_32",
+      "from": "I prefer something light.",
+      "to": "Prefiero algo ligero."
+    },
+    {
+      "id": "a2_33",
+      "from": "Could you speak more slowly?",
+      "to": "¿Podrías hablar más despacio?"
+    },
+    {
+      "id": "a2_34",
+      "from": "I am learning Spanish, so I make mistakes.",
+      "to": "Estoy aprendiendo español, así que cometo errores."
+    },
+    {
+      "id": "a2_35",
+      "from": "Can you write it down, please?",
+      "to": "¿Puedes escribirlo, por favor?"
+    },
+    {
+      "id": "a2_36",
+      "from": "I need to buy a few things.",
+      "to": "Necesito comprar algunas cosas."
+    },
+    {
+      "id": "a2_37",
+      "from": "The shop is closed today.",
+      "to": "La tienda está cerrada hoy."
+    },
+    {
+      "id": "a2_38",
+      "from": "Let's meet in front of the station.",
+      "to": "Quedemos delante de la estación."
+    },
+    {
+      "id": "a2_39",
+      "from": "I will send you the address.",
+      "to": "Te enviaré la dirección."
+    },
+    {
+      "id": "a2_40",
+      "from": "See you soon!",
+      "to": "¡Hasta pronto!"
+    },
+    {
+      "id": "a2_41",
+      "from": "I have already finished my homework.",
+      "to": "Ya he terminado mis deberes."
+    },
+    {
+      "id": "a2_42",
+      "from": "We watched a movie last night.",
+      "to": "Anoche vimos una película."
+    },
+    {
+      "id": "a2_43",
+      "from": "She has been here since Monday.",
+      "to": "Ella está aquí desde el lunes."
+    },
+    {
+      "id": "a2_44",
+      "from": "I have lived in this city for two years.",
+      "to": "Vivo en esta ciudad desde hace dos años."
+    },
+    {
+      "id": "a2_45",
+      "from": "Can you explain the difference?",
+      "to": "¿Puedes explicar la diferencia?"
+    },
+    {
+      "id": "a2_46",
+      "from": "I do not understand this word.",
+      "to": "No entiendo esta palabra."
+    },
+    {
+      "id": "a2_47",
+      "from": "Please repeat the last sentence.",
+      "to": "Por favor, repite la última frase."
+    },
+    {
+      "id": "a2_48",
+      "from": "I am not sure what you mean.",
+      "to": "No estoy seguro de lo que quieres decir."
+    },
+    {
+      "id": "a2_49",
+      "from": "I need more time to decide.",
+      "to": "Necesito más tiempo para decidir."
+    },
+    {
+      "id": "a2_50",
+      "from": "We should leave before it gets dark.",
+      "to": "Deberíamos salir antes de que oscurezca."
+    },
+    {
+      "id": "a2_51",
+      "from": "I was cooking when you called.",
+      "to": "Estaba cocinando cuando llamaste."
+    },
+    {
+      "id": "a2_52",
+      "from": "He was sleeping when the phone rang.",
+      "to": "Él estaba durmiendo cuando sonó el teléfono."
+    },
+    {
+      "id": "a2_53",
+      "from": "I used to play tennis every weekend.",
+      "to": "Antes jugaba al tenis todos los fines de semana."
+    },
+    {
+      "id": "a2_54",
+      "from": "We used to live near the park.",
+      "to": "Antes vivíamos cerca del parque."
+    },
+    {
+      "id": "a2_55",
+      "from": "I am going to visit my family tomorrow.",
+      "to": "Voy a visitar a mi familia mañana."
+    },
+    {
+      "id": "a2_56",
+      "from": "They are going to move next month.",
+      "to": "Van a mudarse el mes que viene."
+    },
+    {
+      "id": "a2_57",
+      "from": "I think it will rain later.",
+      "to": "Creo que lloverá más tarde."
+    },
+    {
+      "id": "a2_58",
+      "from": "Maybe we can try again tomorrow.",
+      "to": "Quizás podamos intentarlo de nuevo mañana."
+    },
+    {
+      "id": "a2_59",
+      "from": "This bag is heavier than mine.",
+      "to": "Esta bolsa es más pesada que la mía."
+    },
+    {
+      "id": "a2_60",
+      "from": "That restaurant is cheaper than this one.",
+      "to": "Ese restaurante es más barato que este."
+    },
+    {
+      "id": "a2_61",
+      "from": "This is the best coffee I have had today.",
+      "to": "Este es el mejor café que he tomado hoy."
+    },
+    {
+      "id": "a2_62",
+      "from": "It was the worst day of the week.",
+      "to": "Fue el peor día de la semana."
+    },
+    {
+      "id": "a2_63",
+      "from": "I have never tried this before.",
+      "to": "Nunca he probado esto antes."
+    },
+    {
+      "id": "a2_64",
+      "from": "Have you ever been to Spain?",
+      "to": "¿Has estado alguna vez en España?"
+    },
+    {
+      "id": "a2_65",
+      "from": "I just got home.",
+      "to": "Acabo de llegar a casa."
+    },
+    {
+      "id": "a2_66",
+      "from": "She has just called me.",
+      "to": "Ella acaba de llamarme."
+    },
+    {
+      "id": "a2_67",
+      "from": "I still need to clean the kitchen.",
+      "to": "Todavía necesito limpiar la cocina."
+    },
+    {
+      "id": "a2_68",
+      "from": "We no longer use that app.",
+      "to": "Ya no usamos esa aplicación."
+    },
+    {
+      "id": "a2_69",
+      "from": "I have to go to the pharmacy.",
+      "to": "Tengo que ir a la farmacia."
+    },
+    {
+      "id": "a2_70",
+      "from": "My head hurts a little.",
+      "to": "Me duele un poco la cabeza."
+    },
+    {
+      "id": "a2_71",
+      "from": "I would like to make an appointment.",
+      "to": "Me gustaría pedir una cita."
+    },
+    {
+      "id": "a2_72",
+      "from": "Is there a doctor available today?",
+      "to": "¿Hay algún médico disponible hoy?"
+    },
+    {
+      "id": "a2_73",
+      "from": "I am waiting for an important message.",
+      "to": "Estoy esperando un mensaje importante."
+    },
+    {
+      "id": "a2_74",
+      "from": "Please let me know when you arrive.",
+      "to": "Avísame cuando llegues, por favor."
+    },
+    {
+      "id": "a2_75",
+      "from": "I left my keys on the table.",
+      "to": "Dejé mis llaves en la mesa."
+    },
+    {
+      "id": "a2_76",
+      "from": "She put the book next to the lamp.",
+      "to": "Ella puso el libro al lado de la lámpara."
+    },
+    {
+      "id": "a2_77",
+      "from": "We need to buy milk and bread.",
+      "to": "Necesitamos comprar leche y pan."
+    },
+    {
+      "id": "a2_78",
+      "from": "There is not enough sugar.",
+      "to": "No hay suficiente azúcar."
+    },
+    {
+      "id": "a2_79",
+      "from": "I am saving money for a new phone.",
+      "to": "Estoy ahorrando dinero para un teléfono nuevo."
+    },
+    {
+      "id": "a2_80",
+      "from": "I spent too much money this week.",
+      "to": "Gasté demasiado dinero esta semana."
+    },
+    {
+      "id": "a2_81",
+      "from": "Can you lend me your charger?",
+      "to": "¿Puedes prestarme tu cargador?"
+    },
+    {
+      "id": "a2_82",
+      "from": "I will give it back tomorrow.",
+      "to": "Te lo devolveré mañana."
+    },
+    {
+      "id": "a2_83",
+      "from": "The train was delayed again.",
+      "to": "El tren se retrasó otra vez."
+    },
+    {
+      "id": "a2_84",
+      "from": "The bus stop is across the street.",
+      "to": "La parada de autobús está al otro lado de la calle."
+    },
+    {
+      "id": "a2_85",
+      "from": "I need to print this document.",
+      "to": "Necesito imprimir este documento."
+    },
+    {
+      "id": "a2_86",
+      "from": "The printer is not working.",
+      "to": "La impresora no funciona."
+    },
+    {
+      "id": "a2_87",
+      "from": "I cleaned my room this morning.",
+      "to": "Limpié mi habitación esta mañana."
+    },
+    {
+      "id": "a2_88",
+      "from": "We have not washed the dishes yet.",
+      "to": "Todavía no hemos lavado los platos."
+    },
+    {
+      "id": "a2_89",
+      "from": "I am trying to eat less sugar.",
+      "to": "Estoy intentando comer menos azúcar."
+    },
+    {
+      "id": "a2_90",
+      "from": "She exercises three times a week.",
+      "to": "Ella hace ejercicio tres veces por semana."
+    },
+    {
+      "id": "a2_91",
+      "from": "I feel better than yesterday.",
+      "to": "Me siento mejor que ayer."
+    },
+    {
+      "id": "a2_92",
+      "from": "He looks tired today.",
+      "to": "Él parece cansado hoy."
+    },
+    {
+      "id": "a2_93",
+      "from": "I do not mind waiting.",
+      "to": "No me importa esperar."
+    },
+    {
+      "id": "a2_94",
+      "from": "Would you mind opening the window?",
+      "to": "¿Te importaría abrir la ventana?"
+    },
+    {
+      "id": "a2_95",
+      "from": "I agree with you.",
+      "to": "Estoy de acuerdo contigo."
+    },
+    {
+      "id": "a2_96",
+      "from": "I do not agree with that idea.",
+      "to": "No estoy de acuerdo con esa idea."
+    },
+    {
+      "id": "a2_97",
+      "from": "That sounds like a good plan.",
+      "to": "Eso suena como un buen plan."
+    },
+    {
+      "id": "a2_98",
+      "from": "I am worried about the exam.",
+      "to": "Estoy preocupado por el examen."
+    },
+    {
+      "id": "a2_99",
+      "from": "We should practice a little every day.",
+      "to": "Deberíamos practicar un poco cada día."
+    },
+    {
+      "id": "a2_100",
+      "from": "I am proud of my progress.",
+      "to": "Estoy orgulloso de mi progreso."
+    }
   ]
 }
